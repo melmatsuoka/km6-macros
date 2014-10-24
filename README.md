@@ -15,4 +15,7 @@ Premiere Pro CC
 
 * Goto 2-pop: Moves the timeline playhead to the 2-pop (assumes that your 2-pop starts at 00:59:58:00)
 
+* Delete Empty Tracks: Deletes all empty video & audio tracks in the active timeline.
+
+
 
