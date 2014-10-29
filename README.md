@@ -9,6 +9,10 @@ clipboard
 
 * Kindle Clipboard Cleaner: Strips out the annoying "annotation" that gets appended to all text that you select and copy in Kindle.app. I recommend mapping this to ⌘V, so as not to interrupt your normal copy/paste muscle memory.
 
+Compressor
+==========
+
+* UC to ProResHQ: This is intended to be run from the Terminal. It will recursively search for all Uncompressed 8/10-bit 4:2:2 QuickTime movies in the the current working directory/folder, then uses the Compressor command-line interface to convert them to ProRes HQ files. The ProRes files are written to the same folder that the original uncompressed source file is locate.  Requires Compressor 4.1 or higher.
 
 Premiere Pro CC
 ===============
