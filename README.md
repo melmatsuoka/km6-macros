@@ -3,6 +3,10 @@ km6-macros
 
 A collection of Keyboard Maestro 6 macros that make my life worth living.
 
+AppleScript Editor
+==================
+
+* Block Comment/Uncomment: Adds/Removes block commenting from selected text in AppleScript Editor.
 
 clipboard
 =========
