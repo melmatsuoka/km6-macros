@@ -363,6 +363,26 @@
 				<key>Actions</key>
 				<array>
 					<dict>
+						<key>IsActive</key>
+						<true/>
+						<key>IsDisclosed</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>CopyClipboard</string>
+						<key>SourceNamedClipboardRedundantDisplayName</key>
+						<string>Default Clipboard</string>
+						<key>SourceNamedClipboardUID</key>
+						<string>8DEBE262-7543-4FE5-A536-3F821B1B2B62</string>
+						<key>SourceUseNamedClipboard</key>
+						<false/>
+						<key>TargetNamedClipboardRedundantDisplayName</key>
+						<string>ORIGINAL_CLIPBOARD</string>
+						<key>TargetNamedClipboardUID</key>
+						<string>011F36D0-3D13-4EF8-BF2C-444B01A95533</string>
+						<key>TargetUseNamedClipboard</key>
+						<true/>
+					</dict>
+					<dict>
 						<key>Action</key>
 						<string>Copy</string>
 						<key>IsActive</key>
@@ -447,6 +467,26 @@
 %Variable%TEMP_CLIPBOARD%
 *)</string>
 							</dict>
+							<dict>
+								<key>IsActive</key>
+								<true/>
+								<key>IsDisclosed</key>
+								<true/>
+								<key>MacroActionType</key>
+								<string>CopyClipboard</string>
+								<key>SourceNamedClipboardRedundantDisplayName</key>
+								<string>ORIGINAL_CLIPBOARD</string>
+								<key>SourceNamedClipboardUID</key>
+								<string>011F36D0-3D13-4EF8-BF2C-444B01A95533</string>
+								<key>SourceUseNamedClipboard</key>
+								<true/>
+								<key>TargetNamedClipboardRedundantDisplayName</key>
+								<string>Default Clipboard</string>
+								<key>TargetNamedClipboardUID</key>
+								<string>8DEBE262-7543-4FE5-A536-3F821B1B2B62</string>
+								<key>TargetUseNamedClipboard</key>
+								<false/>
+							</dict>
 						</array>
 						<key>IsActive</key>
 						<true/>
@@ -502,6 +542,26 @@
 								<key>Text</key>
 								<string>%Variable%TEMP_CLIPBOARD%</string>
 							</dict>
+							<dict>
+								<key>IsActive</key>
+								<true/>
+								<key>IsDisclosed</key>
+								<true/>
+								<key>MacroActionType</key>
+								<string>CopyClipboard</string>
+								<key>SourceNamedClipboardRedundantDisplayName</key>
+								<string>ORIGINAL_CLIPBOARD</string>
+								<key>SourceNamedClipboardUID</key>
+								<string>011F36D0-3D13-4EF8-BF2C-444B01A95533</string>
+								<key>SourceUseNamedClipboard</key>
+								<true/>
+								<key>TargetNamedClipboardRedundantDisplayName</key>
+								<string>Default Clipboard</string>
+								<key>TargetNamedClipboardUID</key>
+								<string>8DEBE262-7543-4FE5-A536-3F821B1B2B62</string>
+								<key>TargetUseNamedClipboard</key>
+								<false/>
+							</dict>
 						</array>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
@@ -510,7 +570,7 @@
 				<key>IsActive</key>
 				<true/>
 				<key>ModificationDate</key>
-				<real>437796863.026739</real>
+				<real>437797457.52818</real>
 				<key>Name</key>
 				<string>Block Comment/Uncomment</string>
 				<key>Triggers</key>
